@@ -1,5 +1,4 @@
 # Exchange Rate API
-=====================
 
 A simple API for fetching exchange rates.
 
